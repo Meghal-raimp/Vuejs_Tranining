@@ -1,16 +1,22 @@
 <template>
   <div>
     <HelloWorld />
+    <ConditionalRendering />
+    <ListRendering />
   </div>
 </template>
 
 <script>
 import HelloWorld from "@/components/template.vue";
+import ConditionalRendering from "@/components/conditionalrendering.vue";
+import ListRendering from "@/components/listrendering.vue";
 
 export default {
   name: 'App',
   components: {
+    ListRendering,
     HelloWorld,
+    ConditionalRendering,
   }
 }
 </script>
