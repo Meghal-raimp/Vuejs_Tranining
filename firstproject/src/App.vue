@@ -3,6 +3,7 @@
     <HelloWorld />
     <ConditionalRendering />
     <ListRendering />
+    <DynamicComponent />
   </div>
 </template>
 
@@ -10,10 +11,12 @@
 import HelloWorld from "@/components/template.vue";
 import ConditionalRendering from "@/components/conditionalrendering.vue";
 import ListRendering from "@/components/listrendering.vue";
+import DynamicComponent from "@/components/dynamicComponent/dynamiccomponent.vue";
 
 export default {
   name: 'App',
   components: {
+    DynamicComponent,
     ListRendering,
     HelloWorld,
     ConditionalRendering,
