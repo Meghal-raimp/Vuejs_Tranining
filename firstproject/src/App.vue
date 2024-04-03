@@ -1,29 +1,15 @@
 <template>
   <div>
-    <HelloWorld />
-    <ConditionalRendering />
-    <ListRendering />
-    <DynamicComponent />
-    <hr />
-    <router-link to="/firstroute"> go to router </router-link>
-    <hr>
-    <router-view></router-view>
+    <HomePage />
   </div>
 </template>
-
 <script>
-import HelloWorld from "@/components/template.vue";
-import ConditionalRendering from "@/components/conditionalrendering.vue";
-import ListRendering from "@/components/listrendering.vue";
-import DynamicComponent from "@/components/dynamicComponent/dynamiccomponent.vue";
 
+import HomePage from "@/page/home.vue";
 export default {
   name: 'App',
   components: {
-    DynamicComponent,
-    ListRendering,
-    HelloWorld,
-    ConditionalRendering,
+    HomePage
   }
 }
 </script>
