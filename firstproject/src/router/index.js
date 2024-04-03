@@ -2,7 +2,7 @@ import {createRouter, createWebHistory} from "vue-router";
 import RouterComponent from '../components/routerComponent/rountercomponent.vue'
 import FetchApi from '../components/apiFetch/apifetch.vue'
 import SampleChart from "@/components/chart/chart.vue";
-
+import VUEX from "@/components/vuex/vuex.vue";
 
 const routes = [
     {
@@ -19,6 +19,11 @@ const routes = [
         path: "/chart",
         name: "sample Chart",
         component: SampleChart,
+    },
+    {
+        path: "/vuex",
+        name: "Vuex",
+        component: VUEX,
     }
 ]
 
