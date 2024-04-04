@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>
-
+      <WatcherComponent />
 <!--      <HelloWorld />-->
 <!--      <ConditionalRendering />-->
 <!--      <ListRendering />-->
@@ -14,7 +14,7 @@
 <!--      <hr>-->
 <!--       -->
 <!--      <VUEX />-->
-      <FormComponent />
+<!--      <FormComponent />-->
     </div>
   </div>
 </template>
@@ -25,14 +25,15 @@
 // import HelloWorld from "@/components/template.vue";
 // import DataTable from "@/components/dataTables/datatables.vue";
 // import VUEX from "@/components/vuex/vuex.vue";
+// import FormComponent from "@/components/forms/forms.vue";
 
 import {mapActions} from "vuex";
-import FormComponent from "@/components/forms/forms.vue";
+import WatcherComponent from "@/components/watcher/watcher.vue";
 
 export default {
   name: "HomePage",
-  components: {FormComponent},
-  // components: {VUEX,SampleChart,DataTable, HelloWorld, ConditionalRendering, DynamicComponent, ListRendering}
+  components: {WatcherComponent},
+  // components: {FormComponent,VUEX,SampleChart,DataTable, HelloWorld, ConditionalRendering, DynamicComponent, ListRendering}
   created() {
       this.fetchDummyData();
   },
