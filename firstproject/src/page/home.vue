@@ -13,7 +13,8 @@
 <!--      <router-link to="/vuex"> Vuex </router-link> <br />-->
 <!--      <hr>-->
 <!--       -->
-      <VUEX />
+<!--      <VUEX />-->
+      <FormComponent />
     </div>
   </div>
 </template>
@@ -23,13 +24,14 @@
 // import ConditionalRendering from "@/components/conditionalrendering.vue";
 // import HelloWorld from "@/components/template.vue";
 // import DataTable from "@/components/dataTables/datatables.vue";
+// import VUEX from "@/components/vuex/vuex.vue";
 
-import VUEX from "@/components/vuex/vuex.vue";
 import {mapActions} from "vuex";
+import FormComponent from "@/components/forms/forms.vue";
 
 export default {
   name: "HomePage",
-  components: {VUEX},
+  components: {FormComponent},
   // components: {VUEX,SampleChart,DataTable, HelloWorld, ConditionalRendering, DynamicComponent, ListRendering}
   created() {
       this.fetchDummyData();
