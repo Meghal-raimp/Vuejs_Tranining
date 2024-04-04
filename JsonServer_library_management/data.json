@@ -1,0 +1,357 @@
+{
+	"students": [
+		{
+			"id": 1,
+			"roll_no": 28729,
+			"first_name": "Jeremy",
+			"last_name": "Watsica",
+			"Class": "bf2Sk$l!)-",
+			"division": "circuit-index",
+			"dues": "53.00",
+			"issued_books": 0
+		},
+		{
+			"id": 2,
+			"roll_no": 41142,
+			"first_name": "Austen",
+			"last_name": "O'Keefe",
+			"Class": "P&_GF^l]I|",
+			"division": "bus-generate",
+			"dues": "116.00",
+			"issued_books": 0
+		},
+		{
+			"id": 3,
+			"roll_no": 94533,
+			"first_name": "Garfield",
+			"last_name": "Ernser",
+			"Class": "7YzUlN?M5C",
+			"division": "pixel-bypass",
+			"dues": "520.00",
+			"issued_books": 0
+		},
+		{
+			"id": 4,
+			"roll_no": 58792,
+			"first_name": "Jacinto",
+			"last_name": "Raynor",
+			"Class": "'mLJ(LR<g>",
+			"division": "program-input",
+			"dues": "738.00",
+			"issued_books": 0
+		},
+		{
+			"id": 5,
+			"roll_no": 30428,
+			"first_name": "Akeem",
+			"last_name": "Steuber",
+			"Class": "4LxmD|#}*m",
+			"division": "hard-drive-connect",
+			"dues": "3.00",
+			"issued_books": 0
+		},
+		{
+			"id": 6,
+			"roll_no": 52856,
+			"first_name": "Misael",
+			"last_name": "Raynor",
+			"Class": "/+Ao$k=ud\"",
+			"division": "interface-input",
+			"dues": "669.00",
+			"issued_books": 0
+		},
+		{
+			"id": 7,
+			"roll_no": 86707,
+			"first_name": "Marjorie",
+			"last_name": "Ritchie",
+			"Class": "8^x,<H9Pjf",
+			"division": "driver-override",
+			"dues": "651.00",
+			"issued_books": 0
+		},
+		{
+			"id": 8,
+			"roll_no": 97142,
+			"first_name": "Tyrique",
+			"last_name": "Schmeler",
+			"Class": "{h?1z)w(/p",
+			"division": "circuit-transmit",
+			"dues": "966.00",
+			"issued_books": 0
+		},
+		{
+			"id": 9,
+			"roll_no": 89086,
+			"first_name": "Humberto",
+			"last_name": "Lesch",
+			"Class": "Q8\\1J#b+L(",
+			"division": "panel-program",
+			"dues": "552.00",
+			"issued_books": 0
+		},
+		{
+			"id": 10,
+			"roll_no": 69106,
+			"first_name": "Elnora",
+			"last_name": "Douglas",
+			"Class": "-EhDXPQzla",
+			"division": "card-quantify",
+			"dues": "280.00",
+			"issued_books": 0
+		},
+		{
+			"id": 11,
+			"roll_no": 39422,
+			"first_name": "Vilma",
+			"last_name": "Gorczany",
+			"Class": "]/'l[|UN7Y",
+			"division": "port-override",
+			"dues": "309.00",
+			"issued_books": 0
+		},
+		{
+			"id": 12,
+			"roll_no": 48066,
+			"first_name": "Chase",
+			"last_name": "Mohr",
+			"Class": "`TNQ5t#{UU",
+			"division": "system-override",
+			"dues": "207.00",
+			"issued_books": 0
+		},
+		{
+			"id": 13,
+			"roll_no": 24778,
+			"first_name": "Americo",
+			"last_name": "O'Kon",
+			"Class": "$8)r6L,K%z",
+			"division": "interface-copy",
+			"dues": "960.00",
+			"issued_books": 0
+		},
+		{
+			"id": 14,
+			"roll_no": 15138,
+			"first_name": "Jon",
+			"last_name": "Denesik",
+			"Class": "g&O{eU;7cb",
+			"division": "interface-compress",
+			"dues": "251.00",
+			"issued_books": 0
+		},
+		{
+			"id": 15,
+			"roll_no": 94033,
+			"first_name": "Casandra",
+			"last_name": "Osinski",
+			"Class": "Ur)X5T!;GA",
+			"division": "transmitter-override",
+			"dues": "970.00",
+			"issued_books": 0
+		},
+		{
+			"id": 16,
+			"roll_no": 46635,
+			"first_name": "Ludie",
+			"last_name": "Hirthe",
+			"Class": "O:/%V=l<LY",
+			"division": "hard-drive-transmit",
+			"dues": "193.00",
+			"issued_books": 0
+		},
+		{
+			"id": 17,
+			"roll_no": 21660,
+			"first_name": "Irma",
+			"last_name": "Baumbach",
+			"Class": "?xhga}pdI2",
+			"division": "circuit-parse",
+			"dues": "228.00",
+			"issued_books": 0
+		},
+		{
+			"id": 18,
+			"roll_no": 88618,
+			"first_name": "Verdie",
+			"last_name": "Champlin",
+			"Class": "u?-3,D3km$",
+			"division": "panel-synthesize",
+			"dues": "602.00",
+			"issued_books": 0
+		},
+		{
+			"id": 19,
+			"roll_no": 74432,
+			"first_name": "Nat",
+			"last_name": "Blanda",
+			"Class": "&/ldrw_Jv!",
+			"division": "sensor-hack",
+			"dues": "952.00",
+			"issued_books": 0
+		},
+		{
+			"id": 20,
+			"roll_no": 99868,
+			"first_name": "Alverta",
+			"last_name": "Reinger",
+			"Class": "Jp4iG\\kb]2",
+			"division": "panel-override",
+			"dues": "373.00",
+			"issued_books": 0
+		}
+	],
+	"books": [
+		{
+			"id": 1,
+			"book_id": 12599,
+			"book_name": "paradigm_shirt.mpg4",
+			"book_edition": "2024-01-03T22:56:28.475Z",
+			"book_department": "Garden",
+			"available_copies": 71380,
+			"issued_copies": 2753,
+			"total_books": 74133
+		},
+		{
+			"id": 2,
+			"book_id": 15201,
+			"book_name": "administrator_tools_new.mus",
+			"book_edition": "2023-08-28T01:30:50.444Z",
+			"book_department": "Games",
+			"available_copies": 15124,
+			"issued_copies": 66351,
+			"total_books": 81475
+		},
+		{
+			"id": 3,
+			"book_id": 45557,
+			"book_name": "deposit_violet_com.ps",
+			"book_edition": "2023-10-24T23:31:06.038Z",
+			"book_department": "Grocery",
+			"available_copies": 77971,
+			"issued_copies": 46659,
+			"total_books": 124630
+		},
+		{
+			"id": 4,
+			"book_id": 68586,
+			"book_name": "avon_account.vor",
+			"book_edition": "2023-12-01T13:04:11.997Z",
+			"book_department": "Computers",
+			"available_copies": 64641,
+			"issued_copies": 22016,
+			"total_books": 86657
+		},
+		{
+			"id": 5,
+			"book_id": 15546,
+			"book_name": "applications.yml",
+			"book_edition": "2023-06-28T05:32:51.675Z",
+			"book_department": "Computers",
+			"available_copies": 23822,
+			"issued_copies": 80596,
+			"total_books": 104418
+		},
+		{
+			"id": 6,
+			"book_id": 95320,
+			"book_name": "action_items_well_modulated.xsm",
+			"book_edition": "2023-04-23T01:31:03.603Z",
+			"book_department": "Electronics",
+			"available_copies": 31309,
+			"issued_copies": 66980,
+			"total_books": 98289
+		},
+		{
+			"id": 7,
+			"book_id": 3264,
+			"book_name": "kwacha_pakistan_driver.xltm",
+			"book_edition": "2023-11-14T17:45:11.391Z",
+			"book_department": "Beauty",
+			"available_copies": 8690,
+			"issued_copies": 31073,
+			"total_books": 39763
+		},
+		{
+			"id": 8,
+			"book_id": 46905,
+			"book_name": "new_array.x3db",
+			"book_edition": "2023-12-06T00:31:25.884Z",
+			"book_department": "Clothing",
+			"available_copies": 97245,
+			"issued_copies": 96214,
+			"total_books": 193459
+		},
+		{
+			"id": 9,
+			"book_id": 31282,
+			"book_name": "maximize_indexing_avon.igs",
+			"book_edition": "2023-08-29T19:42:03.625Z",
+			"book_department": "Garden",
+			"available_copies": 45168,
+			"issued_copies": 30843,
+			"total_books": 76011
+		},
+		{
+			"id": 10,
+			"book_id": 241,
+			"book_name": "mint.in",
+			"book_edition": "2024-03-14T14:44:22.220Z",
+			"book_department": "Electronics",
+			"available_copies": 49542,
+			"issued_copies": 76803,
+			"total_books": 126345
+		},
+		{
+			"id": 11,
+			"book_id": 44738,
+			"book_name": "towels_24_365.aiff",
+			"book_edition": "2024-02-08T12:20:15.939Z",
+			"book_department": "Music",
+			"available_copies": 98243,
+			"issued_copies": 67937,
+			"total_books": 166180
+		},
+		{
+			"id": 12,
+			"book_id": 23794,
+			"book_name": "unbranded.ifm",
+			"book_edition": "2023-07-27T05:32:41.029Z",
+			"book_department": "Kids",
+			"available_copies": 63901,
+			"issued_copies": 47269,
+			"total_books": 111170
+		},
+		{
+			"id": 13,
+			"book_id": 25690,
+			"book_name": "account.sgml",
+			"book_edition": "2023-07-17T01:16:22.641Z",
+			"book_department": "Books",
+			"available_copies": 5592,
+			"issued_copies": 13683,
+			"total_books": 19275
+		},
+		{
+			"id": 14,
+			"book_id": 43510,
+			"book_name": "account.bh2",
+			"book_edition": "2023-12-06T10:41:05.152Z",
+			"book_department": "Sports",
+			"available_copies": 42777,
+			"issued_copies": 64606,
+			"total_books": 107383
+		},
+		{
+			"id": 15,
+			"book_id": 88473,
+			"book_name": "generic_chips.yin",
+			"book_edition": "2023-11-16T06:50:57.341Z",
+			"book_department": "Kids",
+			"available_copies": 42859,
+			"issued_copies": 64282,
+			"total_books": 107141
+		}
+	],
+	"issuedbooks": []
+}
